@@ -125,7 +125,7 @@ p {
 }
 
 .hero {
-  background: linear-gradient(3.36deg, #212325 -63.62%, rgba(255, 255, 255, 0) 43.49%), url(/Nemium-base/images/pattern.png);
+  background: linear-gradient(3.36deg, #212325 -63.62%, rgba(255, 255, 255, 0) 43.49%), url(../images/pattern.png);
   block-size: 50px;
 }
 
